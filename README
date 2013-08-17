@@ -1,0 +1,17 @@
+
+Here are some code examples and my notes(Chinses version only) of the book``The Seasoned Schemer''.
+这里有《The Seasoned Schemer》这本书中一些代码的例子，还有我关于这本书的一些中文笔记。
+I am a math student, just think of scheme as a math toy, and these notes are only for communicating with friends.
+我是一个数学系的学生，仅仅把scheme当成一个数学玩具，这些笔记只为和朋友交流。
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+首先上传的interpreter.scm与Ycombinator.scm是对``The Little Schemer''中相关部分的复习，之后的正文将在最近上传。
+
+记号说明：
+文本中的记号“><”或者“><{一些描述}”表示：这里有个暂时还不明白的问题，或者这里的叙述方式还欠妥当，总之还需要时间来仔细斟酌这个地方。
+我在用纸作笔记的时候也常用这个记号，在纸上我把它画成一个放倒的沙漏（实心的或空心的）。
+这个记号的作用在于：
+1 我可以用emacs的渐进搜索很快的找到这些位置来从新考虑它们。
+2 它提醒我要尽量少去遗留问题，如果不马上把一个问题思考透彻，它可能就会被永远遗留。
+3 它提醒我只要花时间去反复思考，一些看似很难的问题最终也会被很好的理解与解答。
