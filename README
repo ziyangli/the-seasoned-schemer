@@ -4,6 +4,9 @@ Here are some code examples and my notes(Chinses version only) of the book``The 
 I am a math student, just think of scheme as a math toy, and these notes are only for communicating with friends.
 我是一个数学系的学生，仅仅把scheme当成一个数学玩具，这些笔记只为和朋友交流。
 
+feel free to fork!
+i will be grateful to you for your pull request!
+
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 首先上传的interpreter.scm与Ycombinator.scm是对``The Little Schemer''中相关部分的复习，之后的正文将在最近上传。
